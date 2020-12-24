@@ -1,4 +1,4 @@
-This makes https://github.com/ethanselzer/react-touch-position compatible with React v16
+This makes https://github.com/ethanselzer/react-touch-position compatible with React v16, v15.5
 
 To install: `npm i touch-position-react`
 
